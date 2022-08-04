@@ -11,3 +11,13 @@
 - &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Docker Images
 - &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Docker Hub
 - &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Docker Compose
+- &nbsp;&nbsp;&nbsp;Docker is a platform or ecosystem around creating and running containers
+- What is Docker Image and Container?
+- &nbsp;&nbsp;&nbsp;Docker Image – single file with all the dependencies and configurations required to run a program
+- &nbsp;&nbsp;&nbsp;Docker Container – Instance of an Image. Runs a program
+- Running a command
+- &nbsp;&nbsp;&nbsp;Triggers the Docker CLI to reach out to the Docker Hub to download an Image with all the configurations required to download a program.
+- &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;This image is a single file installed onto your computer
+- Docker Client (CLI) – Tool we use to issue commands to
+- Docker Server (Daemon) – Tool responsible for creating images, running containers, etc
+- &nbsp;&nbsp;&nbsp;We never really reach out to the docker server, it runs behind the scenes
