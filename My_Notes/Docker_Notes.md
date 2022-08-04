@@ -1,8 +1,8 @@
 # Docker Notes
 
 - Why use Docker?
-- &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Docker wants to make it easy to install and software on any computer or web server or any cloud-based computing platform
-- &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Save time troubleshooting and solving errors
+- &nbsp;&nbsp;&nbsp;Docker wants to make it easy to install and software on any computer or web server or any cloud-based computing platform
+- &nbsp;&nbsp;&nbsp;Save time troubleshooting and solving errors
 - What is Docker?
 - &nbsp;&nbsp;&nbsp;Docker Ecosystem
 - &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Docker Client
@@ -21,3 +21,9 @@
 - Docker Client (CLI) – Tool we use to issue commands to
 - Docker Server (Daemon) – Tool responsible for creating images, running containers, etc
 - &nbsp;&nbsp;&nbsp;We never really reach out to the docker server, it runs behind the scenes
+
+## Commands
+
+### Docker run hello-world
+
+- Starts up the docker client (CLI)
