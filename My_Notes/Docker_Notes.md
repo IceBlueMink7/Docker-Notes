@@ -27,3 +27,5 @@
 ### Docker run hello-world
 
 - Starts up the docker client (CLI)
+- &nbsp;&nbsp;&nbsp;Starts up the Docker Client (CLI)
+- &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The CLI is in charge of taking commands and communicating them to the docker server which deos the heavy lifting
