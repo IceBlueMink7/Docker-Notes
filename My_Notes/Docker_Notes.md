@@ -33,4 +33,4 @@
 -	Server checks to see if there is a local copy of the “hello-world” file
 -   Since the image cache was empty, docker reaches out to Docker Hub 
 -   Docker Hub has free public images that u can download and run on your computer
-
+-   Docker Server downloaded the hello-world image/file from Docker Hub and stored it in the image cache locally
