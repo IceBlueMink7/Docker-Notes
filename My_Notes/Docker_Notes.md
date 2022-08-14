@@ -29,3 +29,8 @@
 - Starts up the docker client (CLI)
 - &nbsp;&nbsp;&nbsp;Starts up the Docker Client (CLI)
 - &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The CLI is in charge of taking commands and communicating them to the docker server which deos the heavy lifting
+-   The CLI is in charge of taking commands and communicating them to the docker server which deos the heavy lifting
+-	Server checks to see if there is a local copy of the “hello-world” file
+-   Since the image cache was empty, docker reaches out to Docker Hub 
+-   Docker Hub has free public images that u can download and run on your computer
+
